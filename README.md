@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Rehan Rupawalla and I am a student at UT Austin that is heavily involved in the startup ecosystem 
-- 👀 I’m interested in building valuable tech products and I am mostly non-technical although I can read code 
+- 👋 Hi, I’m Rehan Rupawalla and I love building cool AI projects
 - 📫 How to reach me > rehanrupawalla1@gmail.com
 
 <!---
